@@ -1,0 +1,27 @@
+.messages {
+  background-color: #fff;
+  max-width: 600px;
+}
+
+.messages h2 {
+  color: #007bff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.message {
+  padding: 15px;
+  background-color: #f8f9fa;
+  margin-bottom: 10px;
+  border-left: 4px solid #007bff;
+  border-radius: 4px;
+}
+
+.message p {
+  margin: 5px 0;
+  color: #333;
+}
+
+.message strong {
+  color: #212529;
+}
